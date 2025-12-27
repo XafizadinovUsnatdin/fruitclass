@@ -1,6 +1,6 @@
-# Use PyTorch CPU wheels (extra index) on Python 3.11 for Streamlit Cloud
+# Use PyTorch CPU wheels (Python 3.11) on Streamlit Cloud
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.3.1
-torchvision==0.18.1
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
 Pillow==10.4.0
 streamlit==1.39.0
