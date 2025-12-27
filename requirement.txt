@@ -1,7 +1,0 @@
-# Python 3.10 or higher
-
-# Pin CPU wheels compatible with Streamlit Cloud (Python 3.11).
-torch==2.3.1
-torchvision==0.18.1
-Pillow==10.4.0
-streamlit==1.39.0
